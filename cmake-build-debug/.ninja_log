@@ -1,0 +1,27 @@
+# ninja log v5
+0	586	7103539222341535	CMakeFiles/data_structure_c___.dir/main.cpp.obj	395199f43c96f6a1
+590	804	7103539224475735	data_structure_c___.exe	8e2e48512b80b37b
+1	962	7104175124099492	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+963	1610	7104175130532810	02_basic_operation_test.exe	566c3cdbe011a508
+3	194	7104181807059441	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+195	422	7104181809304494	02_basic_operation_test.exe	566c3cdbe011a508
+3	197	7104181981139859	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+198	430	7104181983413793	02_basic_operation_test.exe	566c3cdbe011a508
+3	182	7104182057775140	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+183	408	7104182059969197	02_basic_operation_test.exe	566c3cdbe011a508
+4	196	7104182418154541	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+197	412	7104182420236123	02_basic_operation_test.exe	566c3cdbe011a508
+4	189	7104184449918080	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+190	425	7104184452221890	02_basic_operation_test.exe	566c3cdbe011a508
+3	202	7104184616853515	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+203	421	7104184618984173	02_basic_operation_test.exe	566c3cdbe011a508
+3	182	7104185200694998	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+183	397	7104185202779871	02_basic_operation_test.exe	566c3cdbe011a508
+4	182	7104185948636851	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+183	414	7104185950919435	02_basic_operation_test.exe	566c3cdbe011a508
+4	228	7104188218380886	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+229	459	7104188220657032	02_basic_operation_test.exe	566c3cdbe011a508
+4	199	7104189606614842	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+200	432	7104189608899537	02_basic_operation_test.exe	566c3cdbe011a508
+3	185	7104189692678109	CMakeFiles/02_basic_operation_test.dir/01_linear_list/02_basic_operation_test.cpp.obj	1b6c107a24038c2e
+186	425	7104189695019045	02_basic_operation_test.exe	566c3cdbe011a508

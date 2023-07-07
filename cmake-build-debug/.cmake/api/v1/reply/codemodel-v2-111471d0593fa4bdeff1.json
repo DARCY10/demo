@@ -1,0 +1,78 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "data_structure_c___",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "01_basic_operation::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-01_basic_operation-Debug-f05cf0b87b305f8d66ab.json",
+					"name" : "01_basic_operation",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "02_basic_operation_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-02_basic_operation_test-Debug-a7c925e3610e0dc211c2.json",
+					"name" : "02_basic_operation_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "data_structure_c___::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-data_structure_c___-Debug-706d62c8f51045a7e18d.json",
+					"name" : "data_structure_c___",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "D:/MISDownload/ComputerScience/CLion/c_project/data_structure(c++)/cmake-build-debug",
+		"source" : "D:/MISDownload/ComputerScience/CLion/c_project/data_structure(c++)"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}
